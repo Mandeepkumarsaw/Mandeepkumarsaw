@@ -21,7 +21,14 @@
 
 ###
 
+
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/mandeepkumar?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" />
+</div>
+
 <img src="https://raw.githubusercontent.com/Mandeepkumarsaw/Mandeepkumarsaw/output/snake.svg" alt="Snake animation" />
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
