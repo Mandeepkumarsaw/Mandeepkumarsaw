@@ -28,7 +28,7 @@
 - 👀 I’m interested in Coding...
 - 🌱 I’m currently learning Web development ...
 - 💞️ I’m looking for Internship....
-- 📫 You can reach me by contacting this email-mandeepkr9386@gmail.com...
+- 📫 You can reach me by contacting this email-mandeepkr6207@gmail.com...
 
 - 
 # 💻 Tech Stack:
@@ -42,11 +42,7 @@
 <img src="https://raw.githubusercontent.com/Mandeepkumarsaw/Mandeepkumarsaw/output/snake.svg" alt="Snake animation" />
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mandeepkumarsaw/Mandeepkumarsaw/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mandeepkumarsaw/Mandeepkumarsaw/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Mandeepkumarsaw/Mandeepkumarsaw/output/pacman-contribution-graph.svg">
-</picture>
+
 
 
 
@@ -61,6 +57,11 @@
 
 
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mandeepkumarsaw/Mandeepkumarsaw/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mandeepkumarsaw/Mandeepkumarsaw/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Mandeepkumarsaw/Mandeepkumarsaw/output/pacman-contribution-graph.svg">
+</picture>
 ###
 
 
