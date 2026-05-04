@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/Mandeepkumarsaw">🐙 GitHub</a> •
-  <a href="https://www.linkedin.com/in/mandeep-kumar-saw/">💼 LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/mandeep-kumar-saw/">💼 LinkedIn</a> • 
   <a href="https://leetcode.com/u/mandeepkumar">📊 LeetCode</a> •
   <a href="https://www.hackerrank.com/your-username">🏅 HackerRank</a> •
   <a href="mailto:your-mandeepkr6207@gmail.com">📧 Email</a>
